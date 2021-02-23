@@ -13,6 +13,7 @@ Objectif obligatoire:
 	Exporter cette solution au format pdf
 
 Objectif secondaire: 
+	Créer un ensemble de solution et garder la meilleur
 	A voir : readme pour chaque langage
 
 Contrainte:
@@ -25,3 +26,6 @@ Données:
 	Point de départ du Drone
 	Nombre de déplacement maximale du drone
 	Distance de vision
+
+Fichier inclus:
+	export.kml => exemple d'export du site du data.shom.fr
